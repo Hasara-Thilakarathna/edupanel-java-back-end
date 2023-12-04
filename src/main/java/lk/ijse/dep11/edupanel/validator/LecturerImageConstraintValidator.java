@@ -1,4 +1,4 @@
-package lk.ijse.dep11.edupanel.to.request;
+package lk.ijse.dep11.edupanel.validator;
 
 import lk.ijse.dep11.edupanel.validator.LecturerImage;
 import org.springframework.web.multipart.MultipartFile;

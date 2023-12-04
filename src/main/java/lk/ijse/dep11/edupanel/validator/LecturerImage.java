@@ -1,7 +1,5 @@
 package lk.ijse.dep11.edupanel.validator;
 
-import lk.ijse.dep11.edupanel.to.request.LecturerImageConstraintValidator;
-
 import javax.validation.Constraint;
 import javax.validation.Payload;
 import java.lang.annotation.ElementType;
